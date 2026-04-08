@@ -11,7 +11,7 @@ It instantly identifies compliance gaps, mandatory technical upgrades, and provi
 ## 🔑 Getting Started
 
 Delta-Reg is a premium API. To use this SDK, you need a subscription key.
-**👉 [Get your API Key and view full documentation here](https://www.notion.so/Delta-Reg-API-339a551b9183801aaa37f8c78b193a7)**
+**👉 [Get your API Key and view full documentation here](https://delta-reg-api.notion.site/Delta-Reg-API-339a551b9183801aaa37f8c78b193a7c)**
 
 *(Note: Delta-Reg uses a Bring-Your-Own-Key (BYOK) architecture. You will need to pass your own Google Gemini API key in the headers alongside your Delta-Reg key).*
 
